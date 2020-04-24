@@ -1,2 +1,2 @@
-# Olin-Data-Science-SP20
-Notebooks associated with Olin College Data Science course.
+# Olin Data Science SP20
+Notebooks associated with homework assignments for Olin College Data Science Course SP20. 
