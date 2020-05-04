@@ -1,2 +1,4 @@
 # Olin Data Science SP20
-Notebooks associated with homework assignments for Olin College Data Science Course SP20. 
+Notebooks associated with homework assignments for Olin College's SP20 Data Science Course. My final project for this course is in a separate repository [here](https://github.com/anushadatar/split-ticket), and it uses a lot of content from these notebooks - the work in this repository served as a searchable reference in developing that project.
+
+Notebooks were originally authored by [Allen Downey](https://github.com/AllenDowney), and most of them come from the [Elements of Data Science](https://github.com/AllenDowney/elementsofdatascience), [Bite Size Bayes](https://github.com/AllenDowney/BiteSizeBayes), and [the Political Alignment Case Study](https://github.com/AllenDowney/PoliticalAlignmentCaseStudy) series - this repository is to access/reference solutions to those notebooks, but those repositories contain Allen Downey's official solutions. 
